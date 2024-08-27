@@ -24,10 +24,10 @@ Este proyecto es una aplicación web que permite a los usuarios chatear de maner
 
 1. Clona el repositorio en tu máquina local.
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/alejandro149/alura-proyecto.git>
 
 Navega hasta el directorio del proyecto.
-cd <NOMBRE_DEL_DIRECTORIO>
+cd <alura-proyecto>
 
 Abre el archivo index.html en tu navegador web.
 open index.html
